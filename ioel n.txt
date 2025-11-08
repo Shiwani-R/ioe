@@ -1,0 +1,11 @@
+1-a, 6-a,10-a - https://wokwi.com/projects/447002318953921537 , 1led blink aurdino
+1-b,5-b,10-b - https://wokwi.com/projects/447003001292778497 on board led blink wokwi, aurdino
+2-a, 9-a - https://wokwi.com/projects/447005256221020161 alternate led blink aurdino
+2-b, 9-b - https://wokwi.com/projects/447005707278588929 - wokwi led aurdino
+3-b -  https://wokwi.com/projects/447005820104329217 - press blink led
+4-b  - https://wokwi.com/projects/447007559395267585 led alternate wokwi using timer 
+8 - https://wokwi.com/projects/447008267688492033 - healthcare
+7 - https://wokwi.com/projects/447008498363695105 - agri
+3-a, 4-a - https://wokwi.com/projects/447008635115840513 -temperature 
+6b –  https://wokwi.com/projects/447008754338938881 - distance measurement
+5a- 
